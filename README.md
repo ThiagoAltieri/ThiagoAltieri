@@ -14,6 +14,7 @@ Phyton
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoaltieri/)
+
 altierithiago28@gmail.com
 
 ![Q06](https://github.com/ThiagoAltieri/ThiagoAltieri/assets/148484095/6b370648-7886-419e-8158-5c3ead5a0867)
